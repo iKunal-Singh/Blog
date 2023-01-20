@@ -129,13 +129,17 @@ Administrator. It usually boils down to these three things:
     
     Thank you so much for taking your valuable time to read
     
-    I took the initiative to learn in public and share my work with others. I tried my level best in squeezing as much information as possible in the easiest manner. Hope you learned something new today :)
+    I took the initiative to learn in public and share my work with others. I tried my level best in squeezing as much information as possible in the easiest manner.
+    
+    Hope you learned something new today :)
     
     **Learn** [Essential Linux Commands](https://ikunalsingh.hashnode.dev/introduction-to-essential-linux-commands)
     
     Signup to [KodeKloud - Engineer](https://kodekloud-engineer.com/#!/login) for practicing these tasks hands-on.
     
     In the next part of this blog, we will study 👇
+    
+    [Create Linux user with Non-Interactive Shell](https://ikunalsingh.hashnode.dev/linux-user-with-non-interactive-shell)
     
 
 <iframe src="https://giphy.com/embed/kwCE5QctkD6rEdR3q6" class="giphy-embed" width="480" height="355"></iframe>
