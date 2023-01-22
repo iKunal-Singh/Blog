@@ -55,7 +55,7 @@ Administrator. It usually boils down to these three things:
  [sudo] password for tony: Ir0nM@n
 ```
 
-## **Secure Shell (SSH)**
+### **Secure Shell (SSH)**
 
 Secure Shell (SSH) is a way for you to securely, remotely access, and control a computer or network from another computer and another location. SSH uses encryption to protect your login information and the data that is transferred between the two computers, making it much more secure than other methods of remote access. It is commonly used to remotely manage servers, network devices, and other systems.
 
@@ -63,7 +63,7 @@ In simple terms, SSH allows you to remotely access and control a computer as if 
 
 **For example**, Imagine you have a website hosted on a server at your office, and you want to make updates to it from your home. Instead of physically going to the office to make the updates, you can use SSH to remotely access the server and make the updates from your home computer. SSH encrypts the connection between your home computer and the server so that any information exchanged between the two is secure and cannot be intercepted by anyone else.
 
-## **sudo su -**
+### **sudo su -**
 
 "sudo su -" command allows a user to temporarily gain the privileges of the superuser, also known as the "root" user. The "sudo" part of the command grants the user temporary superuser privileges, and the "su -" part allows the user to switch to the root user account.
 
@@ -83,7 +83,7 @@ It's important to note that using the root account can be a security risk, it's 
 [root@stapp01 ~]#
 ```
 
-## **ls -ltr**
+### **ls -ltr**
 
 "ls -ltr" command is used to list the files and directories in a directory, with additional information, and in a specific order. The **"ls" command stands for "list"** and it is used to display the contents of a directory. The options "l", "t" and "r" added to the command change the way the files and directories are displayed.
 
@@ -107,7 +107,7 @@ The option **"r" stands for "reverse"** and it will reverse the order of the fil
 
 > **Bash** is the interpreter that is going to execute the script and the interpreter needs to read the script so even if we have given it only executable permission the interpreter i.e bash will not be able to execute it so we had to give it read permission as well along with execute permission.
 
-## **chmod o+rx**
+### **chmod o+rx**
 
 "chmod o+rx" command is used to change the permissions of a file or directory. The **"chmod" command stands for "change mode"** and it is used to modify the permissions of a file or directory.
 
