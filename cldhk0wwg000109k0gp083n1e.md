@@ -345,6 +345,8 @@ Signup to [KodeKloud - Engineer](https://kodekloud-engineer.com/#!/login) for pr
 
 In the next part of this blog, we will study 👇
 
+[Create A Cron Job](https://ikunalsingh.hashnode.dev/create-a-cron-job)
+
 <iframe src="https://giphy.com/embed/9u4TXfoIM7wQHnfR1p" class="giphy-embed" width="480" height="270"></iframe>
 
 [via GIPHY](https://giphy.com/gifs/fallontonight-jimmy-fallon-see-ya-tonightshow-9u4TXfoIM7wQHnfR1p)
