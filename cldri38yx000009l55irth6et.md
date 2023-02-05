@@ -194,7 +194,7 @@ Running transaction
  Complete!
 ```
 
-## rpm -qa | grep ntp
+### rpm -qa | grep ntp
 
 The "rpm -qa | grep ntp" is used to search the RPM database for any packages that contain the string "ntp". The "rpm -qa" command lists all installed packages on the system, and the "grep ntp" part filters the output to only show packages that have "ntp" in their name or description. The result is a list of all installed NTP (Network Time Protocol) packages.
 
