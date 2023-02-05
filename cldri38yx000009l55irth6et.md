@@ -1,6 +1,6 @@
 # Linux NTP Setup
 
-Infrastructure
+# Infrastructure
 
 [Infrastructure Details](https://kodekloudhub.github.io/kodekloud-engineer/docs/projects/nautilus#infrastructure-details)
 
@@ -198,7 +198,7 @@ Running transaction
 
 The "rpm -qa | grep ntp" is used to search the RPM database for any packages that contain the string "ntp". The "rpm -qa" command lists all installed packages on the system, and the "grep ntp" part filters the output to only show packages that have "ntp" in their name or description. The result is a list of all installed NTP (Network Time Protocol) packages.
 
-# 3\. Confirm package install successfully
+## 3\. Confirm package install successfully
 
 ```plaintext
 [root@stapp01 ~]# rpm -qa |grep ntp
