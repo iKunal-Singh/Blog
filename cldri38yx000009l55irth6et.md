@@ -1,6 +1,6 @@
 # Linux NTP Setup
 
-# Infrastructure
+## Infrastructure
 
 [Infrastructure Details](https://kodekloudhub.github.io/kodekloud-engineer/docs/projects/nautilus#infrastructure-details)
 
@@ -10,7 +10,7 @@
 
 # Task Details
 
-The system admin team of xFusionCorp Industries has noticed an issue with some servers in Stratos Datacenter where some of the servers are not in sync w.r.t time. Because of this, several application functionalities have been impacted. To fix this issue the team has started using common/standard NTP servers. They are finished with most of the servers except App Server 1. Therefore, perform the following tasks on this server:
+The system admin team of xFusionCorp Industries has noticed an issue with some servers in Stratos Datacenter where some servers are not in sync w.r.t time. Because of this, several application functionalities have been impacted. To fix this issue the team has started using common/standard NTP servers. They are finished with most of the servers except App Server 1. Therefore, perform the following tasks on this server:
 
 Install and configure the NTP server on App Server 1.
 
@@ -28,7 +28,7 @@ Please do not try to start/restart/stop ntp service, as we already have a restar
 | stapp02 | 172.16.238.11 | stapp02.stratos.xfusioncorp.com | steve | Am3ric@ | Nautilus App 2 |
 | stapp03 | 172.16.238.12 | stapp03.stratos.xfusioncorp.com | banner | BigGr33n | Nautilus App 3 |
 
-## 1\. Login on the App server as per the task
+## 1\. Log in on the App server as per the task
 
 ```plaintext
 thor@jump_host ~$ ssh tony@stapp01
@@ -64,7 +64,7 @@ Administrator. It usually boils down to these three things:
 
 > A brief description of the commands "ssh" and "sudo su-" is given in Essential [Linux Commands](https://ikunalsingh.hashnode.dev/introduction-to-essential-linux-commands)
 
-## 2\. Check NTP is installed, if not then install it on the server 
+## 2\. Check NTP is installed, if not then install it on the server
 
 ```plaintext
 [root@stapp01 ~]# rpm -qa |grep ntp
@@ -210,7 +210,7 @@ ntpdate-4.2.6p5-29.el7.centos.2.x86_64
 [root@stapp01 ~]#
 ```
 
-## 4\. Add the NTP server to the configuration file 
+## 4\. Add the NTP server to the configuration file
 
 ```plaintext
 [root@stapp01 ~]# vi /etc/ntp.conf
@@ -224,7 +224,7 @@ server 1.sg.pool.ntp.org
 [root@stapp01 ~]#
 ```
 
-## 5\. Check the NTP daemon status 
+## 5\. Check the NTP daemon status
 
 ```plaintext
 [root@stapp01 ~]# ntpstat
@@ -242,7 +242,7 @@ Unable to talk to NTP daemon. Is it running?
    Active: inactive (dead)
 ```
 
-## 6\. Start the NTP daemon enable and check the status 
+## 6\. Start the NTP daemon enable and check the status
 
 ```plaintext
 [root@stapp01 ~]# systemctl enable ntpd
@@ -274,7 +274,7 @@ Hint: Some lines were ellipsized, use -l to show in full.
 [root@stapp01 ~]#
 ```
 
-## 7\. Validate the task by NTP status 
+## 7\. Validate the task by NTP status
 
 ```plaintext
 [root@stapp01 ~]# ntpstat
@@ -285,7 +285,7 @@ synchronised to NTP server (66.85.78.80) at stratum 3
 
    polling server every 64 s
 
-[root@stapp01 ~]# 
+[root@stapp01 ~]#
 ```
 
 Thank you so much for taking your valuable time to read
