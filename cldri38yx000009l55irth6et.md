@@ -1,6 +1,6 @@
 # Linux NTP Setup
 
-## Infrastructure
+Infrastructure
 
 [Infrastructure Details](https://kodekloudhub.github.io/kodekloud-engineer/docs/projects/nautilus#infrastructure-details)
 
