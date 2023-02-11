@@ -1,4 +1,4 @@
-# Terraform Challenges
+# Terraform Challenge-1
 
 For these challenges, you will start with deploying a simple web app on an existing Kubernetes cluster and then move on to more complicated challenges involving provisioning resources and entire infrastructure stacks in the AWS cloud.
 
