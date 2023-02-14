@@ -172,3 +172,7 @@ I took the initiative to learn in public and share my work with others. I tried 
 Hope you learned something new today :)
 
 Signup to [KodeKloud](https://kodekloud.com/) for performing this challenge.
+
+<iframe src="https://giphy.com/embed/3o6Ztk950bvRtZLGk8" class="giphy-embed" width="480" height="270"></iframe>
+
+[via GIPHY](https://giphy.com/gifs/southparkgifs-3o6Ztk950bvRtZLGk8)
