@@ -298,6 +298,8 @@ Signup to [KodeKloud - Engineer](https://kodekloud-engineer.com/#!/login) for pr
 
 In the next part of this blog, we will study 👇
 
+[Linux User Expiry](https://ikunalsingh.hashnode.dev/linux-user-expiry)
+
 <iframe src="https://giphy.com/embed/m9eG1qVjvN56H0MXt8" class="giphy-embed" width="295" height="480"></iframe>
 
 [via GIPHY](https://giphy.com/gifs/baby-bye-slide-m9eG1qVjvN56H0MXt8)
