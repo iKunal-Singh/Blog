@@ -15,7 +15,7 @@ Utilize `/root/terraform_challenge` a directory to store your Terraform configur
 * Terraform version: `1.1.5` installed on controlplane?
     
 
-## Configure `terraform and provider` settings within the [`provider.tf`](http://provider.tf) file with the following specifications:
+## Configure `terraform and provider` settings within the `provider.tf` file with the following specifications:
 
 * Configure terraform to use `hashicorp/kubernetes` provider.
     
@@ -70,11 +70,11 @@ curl -L -o /tmp/terraform_1.1.5_linux_amd64.zip https://releases.hashicorp.com/t
 unzip -d /usr/local/bin /tmp/terraform_1.1.5_linux_amd64.zip
 ```
 
-## 2\. Configure terraform and provider settings within [provider.tf](http://provider.tf) file
+## 2\. Configure terraform and provider settings within the provider.tf file
 
-You should now refer to the documentation for this provider. Go to the [Terraform Registry](https://registry.terraform.io/) and paste `hashicorp/kubernetes` into the search bar. This will give you the latest version, so adjust the URL in your browser to `2.11.0`
+You should now refer to the documentation for this provider. Go to the [Terraform Registry](https://registry.terraform.io/) and paste `hashicorp/kubernetes` it into the search bar. This will give you the latest version, so adjust the URL in your browser to `2.11.0`
 
-Click on the **USE PROVIDER** button for the configuration block. Copy this, and use `vi` to create [provider.tf](http://provider.tf). Paste in and adjust as per the question requirements.
+Click on the **USE PROVIDER** button for the configuration block. Copy this, and use `vi` it to create provider.tf. Paste in and adjust as per the question requirements.
 
 ### provider.tf
 
