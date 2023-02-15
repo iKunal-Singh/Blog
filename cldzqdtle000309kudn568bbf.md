@@ -4,7 +4,11 @@ For these challenges, you will start with deploying a simple web app on an exist
 
 > Signup to [KodeKloud](https://kodekloud.com/) for performing this challenge. It's free!!!
 
-# Challenge 1
+# Architecture Diagram
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1676451598542/c71b2ec7-42ca-4c55-b74b-b65fa5da9081.png align="center")
+
+# Challenge
 
 In this challenge, we will deploy several Kubernetes resources using Terraform. If you don't know Kubernetes, this will be somewhat confusing as the resource schema only makes sense if you understand Kubernetes.
 
