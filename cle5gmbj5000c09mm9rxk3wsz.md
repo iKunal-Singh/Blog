@@ -10,7 +10,7 @@ Welcome to the terraform challenge series. In this challenge, we will implement 
 
 # Challenge
 
-We will implement a simple LAMP stack using terraform and docker. Utilize `/root/code/terraform-challenges/challenge2` a directory to store your Terraform configuration files.
+We will implement a simple LAMP stack using terraform and docker.
 
 **The requirements in detail:**
 
