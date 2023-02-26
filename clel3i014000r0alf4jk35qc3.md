@@ -1,4 +1,4 @@
-# Perform Dynamic Operations in Terraform with Functions
+# Dynamic Operations in Terraform with Functions
 
 # Introduction
 
