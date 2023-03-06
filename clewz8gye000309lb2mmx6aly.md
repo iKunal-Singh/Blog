@@ -4,7 +4,7 @@ seoDescription: "Seamlessly Integrate Existing Infrastructure with Terraform: A 
 datePublished: Mon Mar 06 2023 15:28:18 GMT+0000 (Coordinated Universal Time)
 cuid: clewz8gye000309lb2mmx6aly
 slug: import-terraform-configuration
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1678116268842/0ce64764-6bb8-4bed-a81e-539294722dcd.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1678116874109/edd72906-f992-4ecb-b66c-365231810924.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1678116469342/d44b2b5b-c797-44cd-bfa7-b9fc717e0333.png
 tags: terraform, configuration, terraform-state, terraform-cloud, hashicorp
 
