@@ -1,9 +1,10 @@
 ---
-title: "Generative AI and Large Language Models Interection"
+title: "Generative AI and Large Language Models Intersection"
+seoTitle: "Generative AI and Large Language Models Intersection"
 seoDescription: "Understanding the Foundations: The Transformer"
 datePublished: Thu Sep 28 2023 09:02:14 GMT+0000 (Coordinated Universal Time)
 cuid: cln2y5h5n000709jm7tbq9o3p
-slug: generative-ai-and-large-language-models-interection
+slug: generative-ai-and-large-language-models-intersection
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1695891424954/20ecfb69-9126-451b-93f7-ea9533eb2895.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1695891697359/bfad03c7-c8d3-4339-9f1e-372653bc8eb0.png
 tags: ai, huggingface, transformers, llm, generative-ai
